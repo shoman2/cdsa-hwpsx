@@ -150,22 +150,14 @@ npm publish --access public
 <div align="center">
 
 ### 김태유
-**AX(AI Transformation) 전문교수 · AI 박사 · Flowthat AI Consulting 대표**
+**AX(AI Transformation) 전문교수 · AI 박사**
 
 </div>
 
-기업·공공기관 대상 AI 콘텐츠 기반 강의를 다수 수행하며, AI PoC(Proof of Concept)와
-**에이전트 기반 업무자동화**를 실제 구조까지 상세히 설계·설명하는 AI 박사입니다.
-1인 컨설팅 기업 **Flowthat AI Consulting**을 운영하며, 삼성·한화첨단소재·POSCO E&C·
-KPMG·NIA 등과의 교육·컨설팅 경험을 바탕으로 "AI가 실제 업무 산출물을 만들어내는
+기업·공공기관 대상 AI 콘텐츠 기반 강의를 다수 수행하며, AI PoC(Proof of Concept)를
+수행하고 **업무자동화를 에이전트 기반으로 상세히 설계·설명**하는 AI 박사입니다.
+컨설팅을 포함한 비즈니스를 직접 운영하며, "AI가 실제 업무 산출물을 만들어내는
 실습형 도구"를 지속적으로 만들고 공유합니다.
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-플로우댓-0B5FFF?style=flat-square&logo=youtube&logoColor=white&labelColor=000000)](#)
-[![Consulting](https://img.shields.io/badge/Consulting-Flowthat_AI-0B5FFF?style=flat-square&labelColor=000000)](#)
-
-</div>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
