@@ -79,6 +79,22 @@ npx cdsa-hwpsx \
 
 <br>
 
+## 🌐 THREE WAYS TO LAUNCH
+
+계정 가입이나 별도 퍼블리시 절차 없이도 실행 가능한 경로가 있습니다.
+
+| 방식 | 명령어 | 계정 필요 |
+|---|---|:---:|
+| **npm 레지스트리** | `npx cdsa-hwpsx --demo` | npm 계정 |
+| **GitHub 직접 실행** | `npx github:shoman2/cdsa-hwpsx --demo` | ❌ |
+| **skills.sh (AI 에이전트용)** | `npx skills add shoman2/cdsa-hwpsx` | ❌ |
+
+`skills.sh` 경로는 Claude Code, Cursor, Codex 등 70+ AI 코딩 에이전트가
+저장소 루트의 [`SKILL.md`](./SKILL.md)를 읽어 이 도구를 직접 활용할 수 있게 해줍니다.
+별도 제출·심사 없이, GitHub 저장소 + `SKILL.md`만 있으면 설치 시점부터 바로 인식됩니다.
+
+<br>
+
 ## 🧭 SYSTEM ARCHITECTURE
 
 ```mermaid
