@@ -64,7 +64,7 @@ npm publish --access public
 
 ## 만든 사람
 
-**김태유 (Flowthat AI Consulting)**
+**김태유**
 AX(AI Transformation) 전문교수 · AI 박사 · 컨설턴트
 
 기업/공공기관 대상 AX 교육과 AI PoC(Proof of Concept), 에이전트 기반 업무자동화 설계를
