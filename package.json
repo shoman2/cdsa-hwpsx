@@ -1,0 +1,26 @@
+{
+  "name": "cdsa-hwpsx",
+  "version": "1.0.0",
+  "description": "행정안전부 표준서식과 동일한 HWPX 문서를 생성하는 CLI (npx 실행)",
+  "bin": {
+    "cdsa-hwpsx": "./bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "examples",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [
+    "hwpx",
+    "행정문서",
+    "공공서식",
+    "한글",
+    "행정안전부"
+  ],
+  "author": "김태유 (Flowthat AI Consulting)",
+  "license": "MIT"
+}

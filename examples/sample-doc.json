@@ -1,0 +1,40 @@
+{
+  "title": "AX 컨설팅 도입 계획 보고",
+  "doc_type": "서면보고",
+  "dept": "AI정책과",
+  "author": "김태유 사무관",
+  "sections": [
+    {
+      "heading": "추진 배경",
+      "subsections": [
+        {
+          "heading": "추진 필요성",
+          "paragraphs": [
+            "기관은 AI 기반 업무자동화 체계를 도입할 필요가 있음."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "주요 추진 내용",
+      "subsections": [
+        {
+          "heading": "AX 컨설팅 및 교육 실시",
+          "paragraphs": [
+            "전문 강사를 통한 AX 교육과 PoC 컨설팅을 병행 추진함."
+          ],
+          "table": {
+            "rows": [
+              ["구분", "기존 방식", "개선 방식"],
+              ["업무 처리", "수작업 중심", "에이전트 기반 자동화"]
+            ]
+          }
+        }
+      ],
+      "conclusions": [
+        "단계적 도입을 통해 조직 내 AI 활용 역량을 제고할 필요가 있음."
+      ]
+    }
+  ],
+  "output": "ax-consulting-plan.hwpx"
+}
